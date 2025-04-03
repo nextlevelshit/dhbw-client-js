@@ -1,12 +1,5 @@
-# DHBW - Client-side JavaScript
+# Astro
 
-
-```js
-window.document
-
-window.location
-
-window.navigator
-
-...
+```shell
+npm create astro@latest
 ```
